@@ -14,7 +14,7 @@ well. The item opening and closing animation can be customized. Although,
 typically designed to display images within the content of items, the content
 can however hold any widget.
 
-![Overview](https://github.com/imujtaba8488/package_im_shelf/blob/master/shelf.gif)
+![Overview](https://github.com/imujtaba8488/package_im_shelf/blob/master/showcase/im_shelf.gif)
 
 ## Using
 
